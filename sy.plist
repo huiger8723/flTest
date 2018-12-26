@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.7.1.81:8080/online/sy.ipa</string>
+					<string>http://124.243.244.21:8081/xajh/shenyu/sy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.7.1.81:8080/online/icon.png</string>
+					<string>http://124.243.244.21:8081/xajh/shenyu/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.7.1.81:8080/online/icon.png</string>
+					<string>http://124.243.244.21:8081/xajh/shenyu/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
