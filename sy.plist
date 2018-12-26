@@ -11,23 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://124.243.244.21:8081/xajh/shenyu/sy.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://124.243.244.21:8081/xajh/shenyu/icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://124.243.244.21:8081/xajh/shenyu/icon.png</string>
+					<string>http://cdnflzj.51aiwan.com/sldsyhwtest/beta/test/download/inhouse/flzj_laohu_v087.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>sy App download</string>
+				<string>∑‚¡˙’Ωº«</string>
 			</dict>
 		</dict>
 	</array>
