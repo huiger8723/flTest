@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://cdnflzj.51aiwan.com/sldsyhwtest/beta/test/download/inhouse/icon.png</string>
+					<string>https://10.7.0.62/xajh/ios-install/xa.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://cdnflzj.51aiwan.com/sldsyhwtest/beta/test/download/inhouse/icon.png</string>
+					<string>https://10.7.0.62/xajh/ios-install/xa.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
