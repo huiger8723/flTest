@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.lzhx</string>
+				<string>com.pwrd.nebula.game</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
