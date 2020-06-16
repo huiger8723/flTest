@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://newxayd-ws.wmupd.com/newxaydtest/resourceTest/public/ipa/touping2.ipa</string>
+					<string>http://http://10.7.0.62/UE4/ipa/Idle_inhouse.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>新笑傲江湖</string>
+				<string>Idle</string>
 			</dict>
 		</dict>
 	</array>
