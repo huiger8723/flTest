@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.7.0.62/xajh/ios-install/test/xa_ob_yunwei_test_1211.ipa</string>
+					<string>https://10.7.0.62/SmallGame/IPA/demo1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.pwrd.nebula.com</string>
+				<string>com.wanmei.xingyun.demo1</string>
 				<key>bundle-version</key>
 				<string>0.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>笑傲江湖</string>
+				<string>aaa</string>
 			</dict>
 		</dict>
 	</array>
